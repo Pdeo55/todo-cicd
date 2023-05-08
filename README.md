@@ -1,4 +1,4 @@
-# node-todo-cicd
+# todo-cicd
 
 Run these commands:
 
@@ -13,7 +13,5 @@ Run these commands:
 
 `node app.js`
 
-or Run by docker compose
 
-test
 
